@@ -1,0 +1,47 @@
+.btn-w{
+    width: 100%;
+}
+
+.navbar-fixed, .page-footer {
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+.container-create{
+    flex-grow: 1;
+}
+
+.error-item-list {
+    background-color: rgba(237, 54, 54, 0.5) !important;
+    color: white;
+    border: 1px solid white !important;
+    margin-bottom: 4px !important;
+}
+
+.errors-list {
+    border: none !important;
+}
+
+.container-create{
+    margin-top: 50px !important;
+    width: 60%;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 550px) {
+    .container-create{
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .container-create{
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 0px) {
+    .brand-logo{
+        left: 0 !important;
+    }
+}

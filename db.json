@@ -1,0 +1,116 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Fantazy"
+    },
+    {
+      "id": 2,
+      "name": "Fiction"
+    },
+    {
+      "id": 3,
+      "name": "Novel"
+    },
+    {
+      "id": 4,
+      "name": "Romance"
+    },
+    {
+      "id": 5,
+      "name": "Biography"
+    },
+    {
+      "id": 6,
+      "name": "Mystery"
+    },
+    {
+      "id": 7,
+      "name": "Thrillers"
+    },
+    {
+      "id": 8,
+      "name": "Poetry"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Stephen King"
+    },
+    {
+      "id": 2,
+      "name": "J.K. Rowling"
+    },
+    {
+      "id": 3,
+      "name": "Danzy Senna"
+    },
+    {
+      "id": 4,
+      "name": "Henry James"
+    }
+  ],
+  "books": [
+    {
+      "title": "Inferno",
+      "isbn": "456-334-gf34",
+      "category": "7",
+      "author": "1",
+      "active": false,
+      "modified": "2023-07-06T13:02:19+03:00",
+      "createdAt": "2023-07-06T12:45:05+03:00",
+      "id": 1
+    },
+    {
+      "title": "Harry Potter and the philosopher's stone",
+      "isbn": "dhf5-45fg-54",
+      "category": "1",
+      "author": "2",
+      "active": true,
+      "modified": "2023-07-06T13:11:34+03:00",
+      "createdAt": "2023-07-06T12:46:44+03:00",
+      "id": 2
+    },
+    {
+      "title": "Sympomaticcc",
+      "isbn": "347gf-35f0",
+      "category": "8",
+      "author": "3",
+      "active": true,
+      "modified": "2023-07-06T13:11:52+03:00",
+      "createdAt": "2023-07-06T13:07:57+03:00",
+      "id": 4
+    },
+    {
+      "title": "The golden bowl",
+      "isbn": "bowl39-fjjd-3",
+      "category": "5",
+      "author": "4",
+      "active": true,
+      "modified": null,
+      "createdAt": "2023-07-06T13:08:32+03:00",
+      "id": 5
+    },
+    {
+      "title": "The bostonians",
+      "isbn": "11-333-f35f",
+      "category": "5",
+      "author": "4",
+      "active": true,
+      "modified": null,
+      "createdAt": "2023-07-06T13:09:03+03:00",
+      "id": 6
+    },
+    {
+      "title": "Pet Sematary",
+      "isbn": "3648-djf3-4-4",
+      "category": "7",
+      "author": "1",
+      "active": true,
+      "modified": null,
+      "createdAt": "2023-07-06T13:12:20+03:00",
+      "id": 7
+    }
+  ]
+}
